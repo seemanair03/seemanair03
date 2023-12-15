@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seemanair03
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in testing my limits
+- 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on good programming practices
 - 📫 How to reach me https://www.linkedin.com/in/seemanair
 
